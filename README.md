@@ -5,11 +5,11 @@ Use the following code: Final_Project#.ipynb
 Note: Python Version 3.10 was used in the making of this code. Github Copilot was used to assist in cleaning of code. 
 
 ## Part 1: Installing Required Libraries
--from PIL import Image, ImageTk, ImageFilter
--from pathlib import Path
--from matplotlib import pyplot as plt
--import numpy as np
--import tkinter as tk
--from tkinter import filedialog # Create the main window
--from PIL import ImageFilter
+*from PIL import Image, ImageTk, ImageFilter
+*from pathlib import Path
+*from matplotlib import pyplot as plt
+*import numpy as np
+*import tkinter as tk
+*from tkinter import filedialog # Create the main window
+*from PIL import ImageFilter
 
